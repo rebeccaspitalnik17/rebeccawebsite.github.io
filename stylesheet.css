@@ -1,0 +1,60 @@
+
+
+*{ 
+	font-family: sans-serif;
+	color: #665544;
+	text-align: center; 
+	background-color: skyblue;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+nav {
+	background-color: #efefef;
+	margin: 10px;}
+
+li {
+	display: inline;
+	padding:  5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #efefef;
+	margin: 10px;
+
+
+
+}
+
+
+article {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float:  left;
+}
+
+.mart {
+	background-color: #efefdf;
+}
+
+h1 {
+	font-family: cursive;
+	color: darkviolet;
+}
+
+
+
+
+
+
